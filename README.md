@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Paolo Gueron, learning to code and loving it!
+I'm currently learning: Python, R and SQL.
 <!--
 **paolo-gueron/paolo-gueron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
